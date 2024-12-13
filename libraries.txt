@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Painless Mesh
+AsyncTCP
+ArduinoJson
+TaskScheduler
+ESPAsyncTCP
